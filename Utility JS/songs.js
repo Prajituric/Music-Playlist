@@ -8,11 +8,15 @@ const songs = [
     name: "song-2",
     displayName: "You're somebody else",
     artist: "Flora Cash",
+    image:
+      "https://res.cloudinary.com/devul/image/upload/v1662138081/song-1_qkyjsl.jpg",
   },
   {
     name: "song-3",
     displayName: "O mie de pahare",
     artist: "White Mahala",
+    image:
+      "https://res.cloudinary.com/devul/image/upload/v1662138050/song-2.jpg",
   },
   {
     name: "song-4",
